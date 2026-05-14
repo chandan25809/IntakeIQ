@@ -2,7 +2,7 @@
 
 > A client-side intake companion that helps law-firm clients upload the right documents without the back-and-forth.
 
-**Live demo:** _add your Vercel link after deploy_
+**Live demo:** [_Live Demo_](https://intake-iq-three.vercel.app/)
 
 ## The problem
 
